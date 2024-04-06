@@ -8,3 +8,10 @@
 ## &
 ## Ye Shall Simp For The Queen, RedSiren
 ### Let your praises be sung like sweet lullabies in her ears, your adoration as steadfast as the mightiest castle walls.
+# **Dodgemaul Rules**
+#### Weapons spawn on the pillars
+#### Build is naked with two mauls - Only tier 0 cosmetics can be used (except tier 1 helmet)
+#### Weapons cannot swing or parry and to be thrown ONLY
+#### A thrown maul **must** be dodged, not parried
+#### Mauls are only to be thrown from your side
+#### Boxing and kicks are allowed and you can block with fists
