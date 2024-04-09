@@ -1,17 +1,14 @@
 # WELCOME TO FLAK's FunHouse
-## Whether you're a seasoned sweatlord or a dung-covered peasant you'll find your place here!
-<a id="Enjoy Mordhau Videos">https://www.youtube.com/@_FLAK_</>
+## Sweatlords and dung-covered peasants all welcome here!
+<a id="My Mordhau Videos">https://www.youtube.com/@_FLAK_</>
 <a id="Join Our Discord">https://discord.gg/kYnw3mJU7j</>
-# Royal Decrees
-### Use of enchanted constructs known as 'hacks' or 'cheats' is strictly forbidden. Shouldst thou choose to ignore this sacred decree, prepare thy tight rear for the throbbing, hard and swift pounding justice of the banhammer. 
-### Unless its the ragdol exploit, thats too funny!
-## &
-## Ye Shall Simp For The Queen, RedSiren
-### Let your praises be sung like sweet lullabies in her ears, your adoration as steadfast as the mightiest castle walls.
 # **Dodgemaul Rules**
-#### Weapons spawn on the pillars
-#### Build is naked with two mauls - Only tier 0 cosmetics can be used (except tier 1 helmet)
-#### Weapons cannot swing or parry and to be thrown ONLY
-#### A thrown maul **must** be dodged, not parried
-#### Mauls are only to be thrown from your side
-#### Boxing and kicks are allowed and you can block with fists
+#### 1. Build is naked with two mauls, remaining 6 build points can go to perks.
+#### 2. Mauls are to be thrown ONLY, a thrown maul must be dodged, not parried.
+#### 3. The field of play is cut in half, Mauls are only to be thrown from your side
+#### 4. Boxing is allowed and you can block with fists (Maul parries/swings are still never allowed)
+#### 5. Kicks are allowed
+# Royal Decree(s)
+### Use of enchanted constructs known as 'hacks' or 'cheats' is strictly forbidden. (Except for the ragdoll exploit - that one's just too amusing!)
+### Unless its the ragdol exploit, thats too funny!
+#### Please all check out my other server "FLAK's Duels & Dungeon"
